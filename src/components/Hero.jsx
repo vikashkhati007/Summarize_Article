@@ -19,7 +19,7 @@ const Hero = () => {
         <h1 className="text-4xl lg:text-6xl font-bold leading-tight">
           Summarize Articles with
           <br className="max-md:hidden" />
-          <span className="orange_gradient">OPEN-AI GPT-4</span>
+          <span className="orange_gradient"> OPEN-AI GPT-4 </span>
         </h1>
         <h2 className="text-lg lg:text-xl mt-5 lg:mt-8">
           Simplify your reading with Summize, an open-source article summarizer
